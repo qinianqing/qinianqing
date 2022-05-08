@@ -27,7 +27,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>✍️&nbsp;&nbsp;大家好，我是 Alvin 同学! 毕业于郑州大学，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
@@ -89,37 +89,37 @@
 </div>
 
 <!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/qinianqing/photos/images/202110311924844.png" /></div>
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/qinianqing/qinianqing/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/qinianqing/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qinianqing&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/qinianqing/photos/images/202108300312623.png" />
 </div>
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/qinianqing/qinianqing/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=qinianqing&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qinianqing&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinianqing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
@@ -142,7 +142,7 @@
     
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://www.douban.com/people/qinianqing/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
@@ -210,7 +210,7 @@ Windows                  10 hrs 11 mins      ███████████�
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=qinianqing&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -231,23 +231,23 @@ Windows                  10 hrs 11 mins      ███████████�
 <table>
   <tr>
     <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
+      <img src="https://cdn.jsdelivr.net/gh/qinianqing/Running/assets/github.svg" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/qinianqing/Heatmap/OUT_FOLDER/github.svg" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/qinianqing/Heatmap/OUT_FOLDER/wakatime.svg" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/qinianqing/Heatmap/OUT_FOLDER/bilibili.svg" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/qinianqing/Heatmap/OUT_FOLDER/shanbay.svg" />
     </td>
   </tr>
 </table>
@@ -256,12 +256,12 @@ Windows                  10 hrs 11 mins      ███████████�
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/qinianqing/photos/images/202110311913581.gif"/></div>
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/qinianqing/qinianqing/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/qinianqing/photos/images/202111021926704.png"/>
 </div>
 © 2022 GitHub, Inc.
 Terms
