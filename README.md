@@ -34,8 +34,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/qinianqing/vue-admin-beautiful-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qinianqing&repo=vue-admin-beautiful-pro&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/qinianqing/qinianqing.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qinianqing&repo=qinianqing.github.io&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/qinianqing/imageZip">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=qinianqing&repo=imageZip&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
