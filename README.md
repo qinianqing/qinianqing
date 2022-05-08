@@ -34,9 +34,9 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/qinianqing/Awesome-Love-Code">
+<a href="https://github.com/qinianqing/vue-admin-beautiful-pro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=qinianqing&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/qinianqing/Student-Data-Vision">
+<a href="https://github.com/qinianqing/imageZip">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=qinianqing&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
