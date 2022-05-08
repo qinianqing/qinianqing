@@ -105,8 +105,6 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/qinianqing/qinianqing/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
